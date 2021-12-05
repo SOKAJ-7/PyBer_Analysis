@@ -8,7 +8,8 @@ Upon looking at the 'pyber_summary_df' created in this project, it is clear that
 
 The relationship between city type and average fares seem to be influenced by the total driver counts as well as ride counts. In areas where the total number of drivers and rides are lower, average ride fares tend to be higher which may disuade customers to use ride-sharing apps such as 'PyBer'. This is a likely cause for why total fares are significantly lower in rural areas and to a lesser degree, suburban areas when compared to the total fares seen in urban areas. A table summarizing these trends can be seen below (Figure 1).
 
-![Pyber_summary](https://user-images.githubusercontent.com/93050931/144759550-a96c8f1f-26c6-4e90-a4e3-3154d85e666b.PNG)
+![Pyber_summary_good](https://user-images.githubusercontent.com/93050931/144760401-597863e1-4c72-48d2-85d7-43715942e6f5.PNG)
+
 
 (Figure 1)
 
